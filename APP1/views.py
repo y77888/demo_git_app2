@@ -4,3 +4,4 @@ from django.shortcuts import render
 
 
 print(1)
+print (2)
