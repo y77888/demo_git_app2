@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4c31688-b3fa-4946-b2b6-1b81641731bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/sjl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/demo_git_app1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo_git_app1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/song/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/song/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/song/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/song/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a4c31688-b3fa-4946-b2b6-1b81641731bd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +67,32 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="demo_git_app" type="Python.DjangoServer" factoryName="Django server">
+      <module name="demo_git_app1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="demo_git_app1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python_two\sf_two\after_end\boss_a\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -86,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575855507775</updated>
       <workItem from="1575855508986" duration="2341000" />
-      <workItem from="1575858714249" duration="399000" />
+      <workItem from="1575858714249" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1575855777799</created>
@@ -109,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575856990638</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="宋家伦">
+      <created>1575859130028</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575859130028</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +156,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="宋家伦" />
+    <option name="LAST_COMMIT_MESSAGE" value="宋家伦" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="21" key="CommitChangelistDialog2" timestamp="1575857979360">
