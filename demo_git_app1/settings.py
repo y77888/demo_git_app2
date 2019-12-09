@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'APP1.apps.App1Config',
     'zhao',
     'song',
-
 ]
 
 MIDDLEWARE = [
