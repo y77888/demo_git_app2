@@ -38,6 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'APP1.apps.App1Config',
+    'zhao',
+    'song',
+
 ]
 
 MIDDLEWARE = [
