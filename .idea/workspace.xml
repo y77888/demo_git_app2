@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4c31688-b3fa-4946-b2b6-1b81641731bd" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="a4c31688-b3fa-4946-b2b6-1b81641731bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/demo_git_app1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo_git_app1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/song/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/song/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,8 +34,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/APP1/urls.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/demo_git_app1/urls.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/APP1/urls.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1Uj26NHyQosopzdi2p7rZ150kDS" />
   <component name="ProjectLevelVcsManager">
@@ -47,6 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,18 +60,6 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="demo_git_app" type="Python.DjangoServer" factoryName="Django server">
@@ -76,7 +70,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="DJANGO_SETTINGS_MODULE" value="demo_git_app1.settings" />
       </envs>
-      <option name="SDK_HOME" value="D:\python_two\sf_two\after_end\boss_a\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="E:\beiwnag\python\env\django_leaarn\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -93,8 +87,20 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\19127\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -105,6 +111,10 @@
       <updated>1575855507775</updated>
       <workItem from="1575855508986" duration="2341000" />
       <workItem from="1575858714249" duration="597000" />
+      <workItem from="1575894141699" duration="701000" />
+      <workItem from="1575936936928" duration="157000" />
+      <workItem from="1575937290436" duration="26000" />
+      <workItem from="1575937317440" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1575855777799</created>
@@ -134,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575859130028</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1">
+      <created>1575894251489</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575894251489</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +162,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -153,25 +172,52 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="宋家伦" />
-    <option name="LAST_COMMIT_MESSAGE" value="宋家伦" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="469" y="21" key="CommitChangelistDialog2" timestamp="1575857979360">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="195" y="142" key="#demo_git_app" timestamp="1575937434830">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="195" y="142" key="#demo_git_app/0.0.1920.1050@0.0.1920.1050" timestamp="1575937434830" />
+    <state x="128" y="57" key="CommitChangelistDialog2" timestamp="1575894250568">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="469" y="21" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1575857979360" />
-    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1575855938902">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="128" y="57" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1575894250568" />
+    <state x="686" y="199" key="FileChooserDialogImpl" timestamp="1575937314142">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1575855938902" />
-    <state x="270" y="59" key="SettingsEditor" timestamp="1575856023548">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="686" y="199" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1575937314142" />
+    <state x="337" y="415" width="300" height="289" key="Github.ShareDialog" timestamp="1575937618183">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="337" y="415" width="300" height="289" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1575937618183" />
+    <state width="914" height="454" key="GridCell.Tab.0.bottom" timestamp="1575937931817">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="454" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1575937931817" />
+    <state width="914" height="454" key="GridCell.Tab.0.center" timestamp="1575937931817">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="454" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1575937931817" />
+    <state width="914" height="454" key="GridCell.Tab.0.left" timestamp="1575937931817">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="454" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1575937931817" />
+    <state width="914" height="454" key="GridCell.Tab.0.right" timestamp="1575937931817">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="454" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1575937931817" />
+    <state x="7" y="132" key="SettingsEditor" timestamp="1575937334439">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1575856023548" />
+    <state x="7" y="132" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1575937334439" />
     <state x="458" y="169" key="Vcs.Push.Dialog.v2" timestamp="1575857028397">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
